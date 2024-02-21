@@ -1,10 +1,8 @@
-
-function App() {
+export default function Profile() {
   return (
-    <div>
-      <h1>Hello World!</h1>
-    </div>
-  );
+    <img
+      src="https://i.imgur.com/MK3eW3Am.jpg"
+      alt="Katherine Johnson"
+    />
+  )
 }
-
-export default App;
